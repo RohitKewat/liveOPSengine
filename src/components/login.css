@@ -1,0 +1,28 @@
+body {
+    background-color: aquamarine;
+
+}
+
+form {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 5rem;
+}
+.btn{
+
+    width: 50px;
+}
+#image{
+    margin-left: 20rem;
+    width: 45rem;
+}
+#pwd {
+    margin: 15px;
+}
+
+#message{
+
+    
+}
