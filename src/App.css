@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+#offer-heading{
+  text-align: center;
+  margin: 2%;
+}
+#offer-creation{
+  margin :5%
+}
